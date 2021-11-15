@@ -48,15 +48,11 @@ body{
   border-radius: 3px;
 pointer-events: none;
 }
+
 .inputField button.active{
   pointer-events: auto;
 }
 
-
-.wrapper .todoList{
-  max-height: 250px;
-  overflow-y: auto;
-}
 .todoList li{
   position: relative;
   margin-bottom: 8px;
